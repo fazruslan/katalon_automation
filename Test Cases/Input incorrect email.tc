@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input incorrect email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a94389e-27bf-497f-8ad6-23570c0a8fa8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c82d10e7-3e68-4636-9c62-ba8ef13d6513</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a540e5e7-55dc-4489-b372-63795099b5c2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04d5d8fa-9987-4d82-8122-a2c7e87cb9b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Rus\n'</defaultValue>
+      <description></description>
+      <id>c82d10e7-3e68-4636-9c62-ba8ef13d6513</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'aszxc1124s'</defaultValue>
+      <description></description>
+      <id>a540e5e7-55dc-4489-b372-63795099b5c2</id>
+      <masked>false</masked>
+      <name>incorrectEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>'Укажите допустимый адрес электронной почты.'</defaultValue>
+      <description></description>
+      <id>04d5d8fa-9987-4d82-8122-a2c7e87cb9b0</id>
+      <masked>false</masked>
+      <name>expectedErrorText</name>
+   </variable>
+</TestCaseEntity>

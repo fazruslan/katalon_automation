@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_tax code</name>
+   <tag></tag>
+   <elementGuidId>b5b06b95-e94d-4aa4-944e-2bc1e191a85b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/span/div/div[5]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>83fcca0a-9d1d-4b2b-8827-b6fe40c402cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>i25</value>
+      <webElementGuid>8b9d8637-8c8f-4bfa-9071-c535d1d9906a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>docssharedWizToggleLabeledContainer ajBQVb</value>
+      <webElementGuid>51bd516b-6ae2-40d1-b309-84eb04cf9bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>tax code</value>
+      <webElementGuid>be171c75-ef68-4e81-9a9c-18f987e1e0d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;o3Dpx&quot;]/div[@class=&quot;Qr7Oae&quot;]/div[1]/div[@class=&quot;geS5n&quot;]/div[@class=&quot;oyXaNc&quot;]/div[1]/div[@class=&quot;lLfZXe fnxRtf cNDBpf&quot;]/span[@class=&quot;H2Gmcc tyNBNd&quot;]/div[@class=&quot;SG0AAe&quot;]/div[@class=&quot;nWQGrd zwllIb&quot;]/label[@class=&quot;docssharedWizToggleLabeledContainer ajBQVb&quot;]</value>
+      <webElementGuid>b983b16f-e898-4b20-a7aa-25d7d4ee4485</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/span/div/div[5]/label</value>
+      <webElementGuid>c40b0d61-097a-47d9-abf9-984517cba334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a new sport activity'])[1]/following::label[1]</value>
+      <webElementGuid>86f0c667-159d-4c65-9639-0c5fd80bb1cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a new language'])[1]/following::label[2]</value>
+      <webElementGuid>e2adfdff-d3a2-4144-940b-fc040ac629ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/label</value>
+      <webElementGuid>072a8516-9bf2-4d42-b9b9-2f6b54b815ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'tax code' or . = 'tax code')]</value>
+      <webElementGuid>41f608c9-abf4-4e3d-a9fb-6bda2dd822ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_playing music</name>
+   <tag></tag>
+   <elementGuidId>d0ac5c40-b0e9-4bd6-bef9-b290f3d04f08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.docssharedWizToggleLabeledContainer.ajBQVb.N2RpBe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/span/div/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9ff2d756-d99a-4210-ab94-f4824badfcef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>i16</value>
+      <webElementGuid>07cd8607-3f59-48bc-9a87-eae854ac6638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>docssharedWizToggleLabeledContainer ajBQVb N2RpBe</value>
+      <webElementGuid>70281b18-ecbf-4545-925e-1eb85074180c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>playing music</value>
+      <webElementGuid>66a1996e-bfd5-49b6-9833-24aabb04ea4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;o3Dpx&quot;]/div[@class=&quot;Qr7Oae&quot;]/div[1]/div[@class=&quot;geS5n&quot;]/div[@class=&quot;oyXaNc&quot;]/div[1]/div[@class=&quot;lLfZXe fnxRtf cNDBpf&quot;]/span[@class=&quot;H2Gmcc tyNBNd&quot;]/div[@class=&quot;SG0AAe&quot;]/div[@class=&quot;nWQGrd zwllIb&quot;]/label[@class=&quot;docssharedWizToggleLabeledContainer ajBQVb N2RpBe&quot;]</value>
+      <webElementGuid>fb15b6c1-2e6f-4f89-a517-7058dee60526</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/span/div/div[2]/label</value>
+      <webElementGuid>9cd3e365-057e-4765-bc19-3337adff3ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='drawing'])[1]/following::label[1]</value>
+      <webElementGuid>456b6c83-9dcd-4183-ab40-33e57e774e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::label[2]</value>
+      <webElementGuid>0bc10de0-c49a-41da-98db-4fedd73f7d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a new language'])[1]/preceding::label[1]</value>
+      <webElementGuid>85a4c447-d8e4-449a-8b38-ada8dd268af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>28b35f2c-8fc7-4c13-bd0b-1d893aae7093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'playing music' or . = 'playing music')]</value>
+      <webElementGuid>d7df598e-d9fc-463e-9978-9ab67a6110cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

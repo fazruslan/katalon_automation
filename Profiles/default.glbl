@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://forms.gle/\nWkPAoqDANjeM93yj7'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Object Repository/Page_QA test assignment/input__whsOnd zHQkBf'</initValue>
+      <name>fieldName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Object Repository/Page_QA test assignment/input__whsOnd zHQkBf_1'</initValue>
+      <name>fieldEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Object Repository/Page_QA test assignment/label_a new language'</initValue>
+      <name>newLanguageRadioBtn</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Object Repository/Page_QA test assignment/label_a new sport activity'</initValue>
+      <name>newSportActivityRadioBtn</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Object Repository/Page_QA test assignment/label_drawing'</initValue>
+      <name>drawingRadIoBtn</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Object Repository/Page_QA test assignment/label_playing music'</initValue>
+      <name>playingMusicRadioBtn</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Object Repository/Page_QA test assignment/label_tax code'</initValue>
+      <name>taxCodeRadioBtn</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Object Repository/Page_QA test assignment/span_'</initValue>
+      <name>notification</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Object Repository/Page_QA test assignment/div_QA test assignment'</initValue>
+      <name>pageTitle</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
